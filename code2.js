@@ -7,6 +7,10 @@ if(score >= 50){
     console.log('fail');
 }
 
+// ANSWER = pass
+
+
+
 // 7 GREATER THAN
 
 let a = 12;
@@ -16,6 +20,10 @@ if(a > b){
 }else{
     console.log('a is not greater than b');
 }
+
+// ANSWER = a is not greater than b
+
+
 
 // 8 VOTE AGE
 
@@ -27,6 +35,10 @@ if(age >= legalAge){
     console.log('can not vote');
 }
 
+// ANSWER = can not vote
+
+
+
 // 9 WEEKEND
 let isWeekend = 'true';
 if(true){
@@ -35,6 +47,9 @@ if(true){
     console.log('time to work');
     
 }
+
+// ANSWER = No work today
+
 
 
 // 10 EVEN OR ODD NUMBER
@@ -45,3 +60,5 @@ console.log('even');
 }else{
     console.log('odd');
 }
+
+// ANSWER odd
