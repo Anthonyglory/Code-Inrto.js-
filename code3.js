@@ -13,6 +13,9 @@ if(marks >= 90){
     console.log('F');
 }
 
+// ANSWER = B
+
+
 
 // 12 LENGTH AND WIDTH
 
@@ -23,6 +26,10 @@ let perimeter = 2 * (lenght + width);
 
 console.log(area);
 console.log(perimeter);
+
+// ANSWER = 50
+//        = 30
+
 
 
 // 13 LEAP YEAR
@@ -43,6 +50,10 @@ console.log(perimeter);
         console.log('not divisable by 3 or 5');
     }
 
+    // ANSWER = not divisable by 3 or 5
+
+
+
     // 15 AVERAGE MARK
 
     let subject1 = 78;
@@ -58,3 +69,5 @@ console.log(perimeter);
     }else{
         console.log('need to improve');
     }
+
+    // ANSWER = good
