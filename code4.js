@@ -9,6 +9,9 @@ if(character >= 'A' && character <= 'Z'){
     console.log('Not a letter');
 }
 
+// ANSWER = Uppercase letter
+
+
 
 // 17 DRIVING
 
@@ -19,6 +22,8 @@ if(ageToDrive >= 18 && hasLicense == true){
 }else{
     console.log('cannot drive');
 }
+
+// ANSWER = cannot drive
 
 
 // 18 DISCOUNT
@@ -47,3 +52,5 @@ if(hour >= 5 && hour <= 11){
 }else{
     console.log('Good Night');
 }
+
+// ANSWER = Good Afternoon
